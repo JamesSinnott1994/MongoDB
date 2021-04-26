@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JamesSinnott1994 
-Code-Institute-Solutions
-/
-MongoDB
-2
-11
-6
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-MongoDB/03-ManipulateDataProgrammaticallyWithPython/01-run_mongo_commands_from_a_python_file/mongo.py /
-@TravelTimN
-TravelTimN Flask Rebuild 2020
-Latest commit d4256c1 on 3 Aug 2020
- History
- 1 contributor
-81 lines (66 sloc)  1.83 KB
-  
 import os
 import pymongo
 if os.path.exists("env.py"):
